@@ -1,8 +1,14 @@
 ## Learning Journal
 
-### Growth Mindset
+## Growth Mindset
 
 Growth mindset is the mindset that doesn't limit you and is focused on a positive attitude to overcome challenges, obstacles, and continuing to learn.
+
+### Things that will help me stay in the Growth Mindset
+
+- Remember that **everyone** struggles to overcome new _challenges_
+- Remember that nothing worthwhile comes easy in life
+- Stay motivated in this life 'altering' experience!!!!
 
 # Header 1
 ## Header 2
@@ -16,7 +22,7 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[My LinkedIn](www.linkedin.com/in/bryant-davis-165031106) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASeal_of_the_United_States_Marine_Corps.svg&psig=AOvVaw31OZdaCEb-jN0KxBbuvtaY&ust=1584471154333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiE5ZTVn-gCFQAAAAAdAAAAABAG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
