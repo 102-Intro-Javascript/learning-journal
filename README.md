@@ -10,18 +10,6 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 - Remember that nothing worthwhile comes easy in life
 - Stay motivated in this life 'altering' experience!!!!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [My LinkedIn](www.linkedin.com/in/bryant-davis-165031106) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASeal_of_the_United_States_Marine_Corps.svg&psig=AOvVaw31OZdaCEb-jN0KxBbuvtaY&ust=1584471154333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiE5ZTVn-gCFQAAAAAdAAAAABAG)
 ```
 
