@@ -10,7 +10,7 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 - Remember that ~~nothing~~ worthwhile comes easy in life
 - Stay motivated in this life 'altering' experience!!!!
 
-> Continuous effort – not strength or intelligence – is the key to unlocking our potentia
+> Continuous effort – not strength or intelligence – is the key to unlocking our potential
 > - Winston Chruchill
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Seal_of_the_United_States_Marine_Corps.svg)    
