@@ -13,11 +13,11 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Seal_of_the_United_States_Marine_Corps.svg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Seal_of_the_United_States_Marine_Corps.svg)    
 [My LinkedIn](www.linkedin.com/in/bryant-davis-165031106)  
 ```    
-Likes  | Dislikes
-Gaming | Running
+Likes  | Dislikes    
+Gaming | Running    
 Food   | Open Water
 
 
