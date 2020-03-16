@@ -7,7 +7,7 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 ### Things that will help me stay in the Growth Mindset
 
 - Remember that **everyone** struggles to overcome new _challenges_
-- Remember that ~nothing~ worthwhile comes easy in life
+- Remember that ~~nothing~~ worthwhile comes easy in life
 - Stay motivated in this life 'altering' experience!!!!
 
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
