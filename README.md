@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+## Learning Journal
 
-You can use the [editor on GitHub](https://github.com/BryantDavis1986/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Growth mindset is the mindset that doesn't limit you and is focused on a positive attitude to overcome challenges, obstacles, and continuing to learn.
 
 # Header 1
 ## Header 2
