@@ -15,7 +15,8 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 
 ![Image](https://www.keepinspiring.me/wp-content/uploads/2019/10/winston-churchill-quotes-5-min-768x578.jpg)    
 [My LinkedIn](www.linkedin.com/in/bryant-davis-165031106)  
-```    
+  
+## About Bryant
 Likes  | Dislikes    
 Gaming | Running    
 Food   | Open Water
