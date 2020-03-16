@@ -16,11 +16,11 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Seal_of_the_United_States_Marine_Corps.svg)
 [My LinkedIn](www.linkedin.com/in/bryant-davis-165031106)
 ```
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
