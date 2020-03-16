@@ -16,13 +16,11 @@ Growth mindset is the mindset that doesn't limit you and is focused on a positiv
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b3/Seal_of_the_United_States_Marine_Corps.svg)
 [My LinkedIn](www.linkedin.com/in/bryant-davis-165031106)
 ```
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BryantDavis1986/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
