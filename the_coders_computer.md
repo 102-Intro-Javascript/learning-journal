@@ -19,3 +19,14 @@ That is the major benefet of an IDE vs just coding software is it lets you do ev
 ## So which do i choose?
 
 Well this boils down to your personal preference, your companies preferrence and the needs of the task. Some editors provide better extensions than others or work better in some situations than others. Ultimately you will perform better in software you're more used to using vs new software that you need to learn how to move around.
+
+### Terminal
+
+PWD: Print Working Directory
+ls: List
+ls la: lists everything even hidden files
+software --version: gives current version of that product
+touch: creates new file such as basic.txt creates a file in the current directory called basic.txt
+rm: removes said file without possible recovery such as remove basix.txt would delete that ile
+cd: change directory meaning if theirs a folder called emails cd emails or if trying to go up you type cd .. to go up a directory
+
