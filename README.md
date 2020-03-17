@@ -1,26 +1,9 @@
-## Learning Journal
+## Homepage
 
-## Growth Mindset
+[Notes about Markdown](https://bryantdavis1986.github.io/learning-journal/git-info)  
+[The Coders Computer](https://bryantdavis1986.github.io/learning-journal/the_coders_computer)  
+[Git Info](https://bryantdavis1986.github.io/learning-journal/git-info)
 
-Growth mindset is the mindset that doesn't limit you and is focused on a positive attitude to overcome challenges, obstacles, and continuing to learn.
+## About Me
 
-### Things that will help me stay in the Growth Mindset
-
-- Remember that **everyone** struggles to overcome new _challenges_
-- Remember that ~~nothing~~ worthwhile comes easy in life
-- Stay motivated in this life 'altering' experience!!!!
-
-> Continuous effort – not strength or intelligence – is the key to unlocking our potential
-> - Winston Chruchill
-
-![Image](https://www.keepinspiring.me/wp-content/uploads/2019/10/winston-churchill-quotes-5-min-768x578.jpg)    
-[My LinkedIn](www.linkedin.com/in/bryant-davis-165031106)  
-  
-## About Bryant
-Likes  | Dislikes    
-Gaming | Running    
-Food   | Open Water
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am a Marine veteran with 5 deployments under his belt who served as the Aviations Operations Chief at my last command. I have been out since 2012 and searching for a career. I have been interested into IT since I was a kid. I was building computers since I was 12, building websites and networks and troubling IT issues around 15-16. So I looks forward to pursuing a career into coding.
