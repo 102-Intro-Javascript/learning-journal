@@ -1,6 +1,6 @@
 # CSS
 
-## Learning CC Chapter 10:
+## Learning CSS Chapter 10:
 
 * CSS treats each HTML element as if it appears inside
 its own box and uses rules to indicate how that
